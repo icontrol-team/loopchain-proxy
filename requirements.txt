@@ -1,7 +1,7 @@
 jsonschema==3.2.0
 jsonrpcserver==4.1.2
 jsonrpcclient[aiohttp]==3.3.5
-sanic==19.12.2
+sanic==20.12.7
 gunicorn>=20.0,<=20.0.4
 sanic-cors==0.10.0
 earlgrey>=0.0.4
